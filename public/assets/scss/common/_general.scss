@@ -1216,6 +1216,10 @@ input[type="checkbox"] {
   .mini-title.style-1 {
     margin-bottom: 0;
   }
+
+  .social-icon-section {
+    display: none !important;
+  }
 }
 
 @media screen and (max-width: 575px) {
