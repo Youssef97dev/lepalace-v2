@@ -10,8 +10,13 @@
     "key": "menu"
   },
   {
+    "title": "Contact",
+    "link": "/contact",
+    "key": "contact"
+  },
+  {
     "title": "Gallery",
-    "link": "/portfolio",
-    "key": "portfolio"
+    "link": "/gallery",
+    "key": "gallery"
   }
 ]

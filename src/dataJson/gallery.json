@@ -1,44 +1,44 @@
 [
-    {
-        "src": "/assets/img/gallery/gallery_1.jpg",
-        "thumbnail": "/assets/img/gallery/gallery_1.jpg",
-        "caption": "Image 1",
-        "title": "Paella Valencene",
-        "desp": "Italian"
-    },
-    {
-        "src": "/assets/img/gallery/gallery_2.jpg",
-        "thumbnail": "/assets/img/gallery/gallery_2.jpg",
-        "caption": "Image 2",
-        "title": "Paella Valencene",
-        "desp": "Italian"
-    },
-    {
-        "src": "/assets/img/gallery/gallery_3.jpg",
-        "thumbnail": "/assets/img/gallery/gallery_3.jpg",
-        "caption": "Image 4",
-        "title": "Paella Valencene",
-        "desp": "Italian"
-    },
-    {
-        "src": "/assets/img/gallery/gallery_4.jpg",
-        "thumbnail": "/assets/img/gallery/gallery_4.jpg",
-        "caption": "Image 4",
-        "title": "Paella Valencene",
-        "desp": "Italian"
-    },
-    {
-        "src": "/assets/img/gallery/gallery_5.jpg",
-        "thumbnail": "/assets/img/gallery/gallery_5.jpg",
-        "caption": "Image 4",
-        "title": "Paella Valencene",
-        "desp": "Italian"
-    },
-    {
-        "src": "/assets/img/gallery/gallery_6.jpg",
-        "thumbnail": "/assets/img/gallery/gallery_6.jpg",
-        "caption": "Image 4",
-        "title": "Paella Valencene",
-        "desp": "Italian"
-    }
+  {
+    "src": "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_500,w_391/palace/mbjz7jnor2lhyni8s6ae",
+    "thumbnail": "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_500,w_391/palace/mbjz7jnor2lhyni8s6ae",
+    "caption": "Image 1",
+    "title": "Paella Valencene",
+    "desp": "Italian"
+  },
+  {
+    "src": "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_500,w_391/palace/wtz23atwpmijqnitialo",
+    "thumbnail": "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_500,w_391/palace/wtz23atwpmijqnitialo",
+    "caption": "Image 2",
+    "title": "Paella Valencene",
+    "desp": "Italian"
+  },
+  {
+    "src": "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_500,w_391/palace/l5jyim7ids0ntzgjqe7c",
+    "thumbnail": "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_500,w_391/palace/l5jyim7ids0ntzgjqe7c",
+    "caption": "Image 4",
+    "title": "Paella Valencene",
+    "desp": "Italian"
+  },
+  {
+    "src": "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_500,w_391/palace/mjwnl2xxinsqnkgxc943",
+    "thumbnail": "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_500,w_391/palace/mjwnl2xxinsqnkgxc943",
+    "caption": "Image 4",
+    "title": "Paella Valencene",
+    "desp": "Italian"
+  },
+  {
+    "src": "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_500,w_391/palace/js74gtognfdmbozdnjpc",
+    "thumbnail": "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_500,w_391/palace/js74gtognfdmbozdnjpc",
+    "caption": "Image 4",
+    "title": "Paella Valencene",
+    "desp": "Italian"
+  },
+  {
+    "src": "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_500,w_391/palace/pduqebhdtxd2sw36s7lu",
+    "thumbnail": "https://res.cloudinary.com/dz7wroord/image/upload/c_thumb,h_500,w_391/palace/pduqebhdtxd2sw36s7lu",
+    "caption": "Image 4",
+    "title": "Paella Valencene",
+    "desp": "Italian"
+  }
 ]

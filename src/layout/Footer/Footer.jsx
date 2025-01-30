@@ -4,7 +4,7 @@ import { footerAnimation, scrollUpBtn, scrollUpShow } from "../../helper/main";
 import { WhiteButton } from "../../components/Button/Button";
 
 import footerBg from "/assets/img/bg/footer_bg.png";
-import elegenciaLogo from "/assets/img/logo/palace-logo.png";
+import elegenciaLogo from "/assets/img/logo/palace-logo-hd.png";
 
 const Footertext = {
   email: "reservation@le-palacemarrakech.com",
@@ -94,7 +94,11 @@ export default function Footer() {
                   />
                 </svg>
               </div>
-              <img src={elegenciaLogo} alt="..." />
+              <img
+                src={elegenciaLogo}
+                style={{ height: "150px", width: "150px" }}
+                alt="..."
+              />
             </div>
           </div>
           <div className="ak-height-100 ak-height-lg-60"></div>
