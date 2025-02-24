@@ -25,7 +25,7 @@ export default function HeroSilder() {
   return (
     <div className="ak-hero ak-style1 heignt-100vh">
       <img className="ak-hero-bg ak-bg" src={bg_img} alt="..." />
-      <div className="container">
+      {/*<div className="container">
         <div className="hero-text-section container-fluid container-md">
           <div className="ak-slider ak-slider-hero-1">
             <Swiper
@@ -55,7 +55,7 @@ export default function HeroSilder() {
             </Swiper>
           </div>
         </div>
-      </div>
+              </div>*/}
       <div className="social-icon-section">
         <p>FOLLOW US</p>
         <div className="social-border"></div>
